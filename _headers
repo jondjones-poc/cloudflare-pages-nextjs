@@ -1,0 +1,5 @@
+/cms/*
+  Access-Control-Allow-Origin: *
+
+/test/*
+  test: hello
