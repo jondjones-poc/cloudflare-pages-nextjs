@@ -1,0 +1,2 @@
+export { default } from '../components/pagetypes/PageRenderer';
+export { default as getServerSideProps} from '../lib/server/getPageServerSideProps';
