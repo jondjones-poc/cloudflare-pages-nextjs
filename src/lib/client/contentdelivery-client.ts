@@ -2,8 +2,7 @@ import axios, { AxiosRequestConfig } from 'axios';
 import { GetStaticPropsContext } from 'next';
 
 export const getPageDataStaticProps = <T>(ctx : GetStaticPropsContext) => {
-    const url = `http://localhost:5000/api/episerver/v3.0/content/?contentUrl=http://localhost:5000&expand=*`;
-    debugger;
+    const url = `http://cms12.jondjones.com/api/episerver/v3.0/content/?contentUrl=http://cms12.jondjones.com/&expand=*`;
     const config = {   
          baseURL: process.env.NEXT_PUBLIC_EPISERVER_SERVER, 
          headers: {

@@ -9,8 +9,11 @@ Set `NODE_VERSION` with `12.22.0`
 ## Live Site URL 👻
 
 Website: [https://cloudflare-pages-nextjs.pages.dev](https://cloudflare-pages-nextjs.pages.dev/)
-API: [https://blue-dawn-a640.jonjones.workers.dev/](https://blue-dawn-a640.jonjones.workers.dev/)
-Web Hook: [https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/f0868806-6313-425c-af9f-c0ac8d366174](https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/f0868806-6313-425c-af9f-c0ac8d366174)
+
+CMS 12 Starter Kit: [https://github.com/jondjones/JonDJones.OptimizelyCMS.V12.StarterKit](https://github.com/jondjones/JonDJones.OptimizelyCMS.V12.StarterKit)
+CMS URL: [http://cms12.jondjones.com/](http://cms12.jondjones.com/)
+
+Web Hook: [https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/b5544a6b-e79e-43cb-b043-a8530b0f709d](https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/b5544a6b-e79e-43cb-b043-a8530b0f709d)
 
 ## Architecture 😍
 
